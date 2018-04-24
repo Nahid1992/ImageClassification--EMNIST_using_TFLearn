@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Nahid\\Documents\\MachineLearningProjects\\#EMNIST\\EMNIST_TFLearn\\models\\EMNIST_tflearncnn.model"
+all_model_checkpoint_paths: "C:\\Users\\Nahid\\Documents\\MachineLearningProjects\\#EMNIST\\EMNIST_TFLearn\\models\\EMNIST_tflearncnn.model"
